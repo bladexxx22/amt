@@ -1,0 +1,6 @@
+[submodule "amt-backend"]
+    path = amt-backend
+    url = https://github.com/bladexxx22/amt-backend
+[submodule "amt-frontend"]
+    path = amt-frontend
+    url = https://github.com/bladexxx22/amt-frontend
